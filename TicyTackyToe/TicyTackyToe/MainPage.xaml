@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TicyTackyToe.MainPage"
+             BackgroundImageSource="br.jpg">
+
+    <Grid Margin="0,20,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackLayout x:Name="gameOverStackLayout" Grid.Row="0" Grid.Column="1" IsVisible="False">
+            <Label Text="Game Over" TextColor="White" FontSize="15" HorizontalTextAlignment="Center"/>
+            <Button Text="Play again" Clicked="playagain_Clicked"/>
+        </StackLayout>
+        <Label Text="Player1 (X)" TextColor="LightBlue" FontSize="20" Grid.Row="0" Grid.Column="0" Margin="10"/>
+        <Label Text="Player2 (O)" TextColor="IndianRed" FontSize="20" Grid.Row="0" Grid.Column="2" Margin="10" HorizontalTextAlignment="End"/>
+        <Button x:Name="button1" Text="" FontSize="80" TextColor="GhostWhite" Grid.Row="1" Grid.Column="0" Opacity=".2" BackgroundColor="Olive" Clicked="button_Clicked"/>
+        <Button x:Name="button2" Text="" FontSize="80" TextColor="GhostWhite" Grid.Row="1" Grid.Column="1" Opacity=".2" BackgroundColor="Olive" Clicked="button_Clicked"/>
+        <Button x:Name="button3" Text="" FontSize="80" TextColor="GhostWhite" Grid.Row="1" Grid.Column="2" Opacity=".2" BackgroundColor="Olive" Clicked="button_Clicked"/>
+        <Button x:Name="button4" Text="" FontSize="80" TextColor="GhostWhite" Grid.Row="2" Grid.Column="0" Opacity=".2" BackgroundColor="Olive" Clicked="button_Clicked"/>
+        <Button x:Name="button5" Text="" FontSize="80" TextColor="GhostWhite" Grid.Row="2" Grid.Column="1" Opacity=".2" BackgroundColor="Olive" Clicked="button_Clicked"/>
+        <Button x:Name="button6" Text="" FontSize="80" TextColor="GhostWhite" Grid.Row="2" Grid.Column="2" Opacity=".2" BackgroundColor="Olive" Clicked="button_Clicked"/>
+        <Button x:Name="button7" Text="" FontSize="80" TextColor="GhostWhite" Grid.Row="3" Grid.Column="0" Opacity=".2" BackgroundColor="Olive" Clicked="button_Clicked"/>
+        <Button x:Name="button8" Text="" FontSize="80" TextColor="GhostWhite" Grid.Row="3" Grid.Column="1" Opacity=".2" BackgroundColor="Olive" Clicked="button_Clicked"/>
+        <Button x:Name="button9" Text="" FontSize="80" TextColor="GhostWhite" Grid.Row="3" Grid.Column="2" Opacity=".2" BackgroundColor="Olive" Clicked="button_Clicked"/>
+
+
+
+    </Grid>
+
+
+</ContentPage>

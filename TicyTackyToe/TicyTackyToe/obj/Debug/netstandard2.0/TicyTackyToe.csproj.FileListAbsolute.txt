@@ -1,0 +1,12 @@
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\bin\Debug\netstandard2.0\TicyTackyToe.deps.json
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\bin\Debug\netstandard2.0\TicyTackyToe.dll
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\bin\Debug\netstandard2.0\ref\TicyTackyToe.dll
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\bin\Debug\netstandard2.0\TicyTackyToe.pdb
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\obj\Debug\netstandard2.0\TicyTackyToe.AssemblyInfoInputs.cache
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\obj\Debug\netstandard2.0\TicyTackyToe.AssemblyInfo.cs
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\obj\Debug\netstandard2.0\TicyTackyToe.dll
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\obj\Debug\netstandard2.0\ref\TicyTackyToe.dll
+C:\Users\presc\source\repos\TicyTackyToe\TicyTackyToe\TicyTackyToe\obj\Debug\netstandard2.0\TicyTackyToe.pdb
